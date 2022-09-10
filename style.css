@@ -21,7 +21,8 @@
   }
   
   h1 {
-    font-size: 96px;
+    
+      font-size: 96px;
   }
   
   
@@ -41,7 +42,7 @@
   }
   .person {
       background: var(--secondary-color);
-      padding: 80px 20px;
+      padding: 40px 20px;
     }
 
 
@@ -177,7 +178,7 @@
   .nav-link {
 
   }
-  
+
   .d-sm-block {
  display: block !important;
  }
