@@ -56,6 +56,8 @@
   
   .about-paragraphs p {
     margin: 10px;
+    text-align: center;
+    
   }
   
   .navigation-links {
@@ -114,9 +116,8 @@
   .mt-5 {
     margin-top: 3rem !important;
   }
-  
-  .mb-3 {
-   
+ 
+  .mb-3 {  
     padding-top: 0px;
     }
 
@@ -173,14 +174,18 @@
  text-align: left;
   }
   
+  .nav-link {
+
+  }
+  
   .d-sm-block {
  display: block !important;
  }
 
-        .backgrond {
-          background: var(--secondary-color);
-          padding: 80px 20px;
-        }
+ .backgrond {
+  background: var(--secondary-color);
+  padding: 80px 20px;
+  }
 
  .mb-3 {
    margin-bottom: 2rem !important;
